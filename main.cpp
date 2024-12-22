@@ -5,7 +5,7 @@
  *
  * Author:        Jeffrey Rolland
  * Creation Date: 12/24/2014
- * Modifications: 1None
+ * Modifications: None
  *
 ******************************************************************************/
 
